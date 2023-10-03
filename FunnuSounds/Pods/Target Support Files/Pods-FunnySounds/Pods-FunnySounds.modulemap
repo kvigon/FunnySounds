@@ -1,0 +1,6 @@
+framework module Pods_FunnySounds {
+  umbrella header "Pods-FunnySounds-umbrella.h"
+
+  export *
+  module * { export * }
+}
